@@ -3,18 +3,18 @@ body {
 
 }
 
-p.intro {
+.intro p {
   font-family: monospace;
 
 }
 
-h2.intro {
+.intro h2 {
   font-size: 30px;
   color: #ff0066;
   text-align: center;
 }
 
-img.intro{
+.intro img{
   margin-left: auto;
   margin-right: auto;
   display: block;
